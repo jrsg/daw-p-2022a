@@ -253,8 +253,17 @@ table tfoot td {
 	font-size:0.85em;
 }
 
+.resumen td{
+	border: 1px solid #eaeaea;
+}
+
 input.resumen{
 	width: 100px;
+}
+
+input.resumen-largo{
+	width: 545px;
+	margin-bottom: 15px;
 }
 
 .resumen ul{
